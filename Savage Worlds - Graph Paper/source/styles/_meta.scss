@@ -33,11 +33,11 @@
         width: 136px;
       }
 
-      &--size,
-      &--exp,
-      &--level,
       &--age,
-      &--bennies {
+      &--bennies,
+      &--doubloons,
+      &--pieces8,
+      &--royals {
         width: 40px;
 
         + .sheet-label {
@@ -45,6 +45,7 @@
         }
       }
 
+      &--size,
       &--height,
       &--weight,
       &--eyes,
@@ -52,7 +53,8 @@
       &--rank,
       &--origin,
       &--gender,
-      &--bits {
+      &--adv
+       {
         width: 64px;
 
         + .sheet-label {

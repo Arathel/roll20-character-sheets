@@ -741,22 +741,6 @@
       "descriptiontranslationkey": "defaults-rename-label-rank-description"
     },
     {
-      "attribute": "rename_label_level",
-      "displayname": "[Rename] Label: Level to ",
-      "displaytranslationkey": "defaults-rename-label-level",
-      "type": "text",
-      "description": "Renamed via the attribute <b style='user-select: all; font-family: monospace; white-space: nowrap;'>rename_label_level</b> (e.g. Circle or Year).",
-      "descriptiontranslationkey": "defaults-rename-label-level-description"
-    },
-    {
-      "attribute": "rename_label_exp",
-      "displayname": "[Rename] Label: EXP to ",
-      "displaytranslationkey": "defaults-rename-label-exp",
-      "type": "text",
-      "description": "Renamed via the attribute <b style='user-select: all; font-family: monospace; white-space: nowrap;'>rename_label_exp</b> (e.g. Karma or Gems).",
-      "descriptiontranslationkey": "defaults-rename-label-exp-description"
-    },
-    {
       "attribute": "rename_label_gender",
       "displayname": "[Rename] Label: Gender to ",
       "displaytranslationkey": "defaults-rename-label-gender",
@@ -803,14 +787,6 @@
       "type": "text",
       "description": "Renamed via the attribute <b style='user-select: all; font-family: monospace; white-space: nowrap;'>rename_label_weight</b> (e.g. Mass or Your Mom).",
       "descriptiontranslationkey": "defaults-rename-label-weight-description"
-    },
-    {
-      "attribute": "rename_label_bits",
-      "displayname": "[Rename] Label: #Bits to ",
-      "displaytranslationkey": "defaults-rename-label-bits",
-      "type": "text",
-      "description": "Renamed via the attribute <b style='user-select: all; font-family: monospace; white-space: nowrap;'>rename_label_bits</b> (e.g. Money or Gold).<h4 style='margin-top: 24px;'>Rename Blocks</h4><p style='margin-bottom: 16px; max-width: 640px;'>You can rename the blocks to better fit the Game Setting, such as \"Powers\" to \"Talismans\" or \"Walkers\" to \"Frames\". This can also be done manually with the <b style='font-family: monospace; white-space: nowrap;'>@{rename-block-attribute}</b> for each individual sheet.</p>",
-      "descriptiontranslationkey": "defaults-rename-label-bits-description"
     },
     {
       "attribute": "rename_block_allies",
